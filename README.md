@@ -4,7 +4,7 @@ A GUI tool to predict bioink printability and viability in an in-vivo-like envir
 ## Overview
 Hello Inkovators! Tissue Inkovation is a machine learning project created for the TJHSST's 2025 Biocode Hackathon. The goal was to design a user-friendly page for users to access this model. This page provides a more convenient way to get predictions for bioink printability and viability. The highest-accuracy model attained an F1 score of 0.9919, which signifies a strong balance in the model's precision and accuracy.
 
-Here is the Google Colab link for the project's final GUI! https://702d22feb0eddb70d1.gradio.live.
+Here is the Google Colab link for the project's final GUI! https://colab.research.google.com/drive/1KeYoT-e5uHB98qPvVIGxsy8DzOIi-FjT#scrollTo=k1ZIMG_d_yki.
 
 Here is the Google Colab link for the project's development (NOT FINAL MODEL)! https://colab.research.google.com/drive/1G-n0ONwAnO7ySxkZGCSGHe7PN0fNpbJ3?usp=sharing.
 
