@@ -8,9 +8,9 @@ Here is the Google Colab link for the project's development (NOT FINAL MODEL)! h
 Here is the Google Colab link for the project's final GUI! https://702d22feb0eddb70d1.gradio.live.
 
 ## Directions
-1. Ensure that you have Python 3 installed, along with the latest versions of all necessary packages/dependencies (Tensorflow, Numpy, and tkinter)
+1. Ensure that your browser is up to date, along with the latest versions of all necessary packages/dependencies (Tensorflow, Numpy, and tkinter).
 2. Download the most recent version of this repository.
-3. Extract the download and run the TissueInkovation.py file.
+3. Either go to this Giadio link: https://702d22feb0eddb70d1.gradio.live or extract, download, and run the TissueInkovation.pkl file.
 4. Enter all of the requested parameters (MUST be numbers) in the text boxes or select a preset.
 5. Receive your prediction! (Predictions of 100% or 0% usually mean that you did not input the data correctly)
 
